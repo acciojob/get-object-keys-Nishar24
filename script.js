@@ -11,8 +11,3 @@ function getKeys(obj) {
 
 // Testing the function
 console.log(getKeys(student)); // Output: ["name"]
-
-// Additional tests
-console.log(getKeys({ name: "John", age: 25, city: "New York" })); // Output: ["name", "age", "city"]
-console.log(getKeys({})); // Output: []
-console.log(getKeys({ course: "Math", grade: "A" })); // Output: ["course", "grade"]
