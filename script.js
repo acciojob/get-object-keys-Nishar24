@@ -1,7 +1,7 @@
 //your JS code here. If required.
 // Create the student object
 const student = {
-  name: "John",
+  name: "John"
 };
 
 // Function to get all keys from the object
